@@ -4,6 +4,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Newb"
-
+    return "Newbgit"
+print("HiiII")
 app.run()
